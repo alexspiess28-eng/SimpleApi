@@ -12,7 +12,7 @@ builder.Services.AddCors(options =>
                .AllowAnyHeader();
     });
 });
-
+/*teste*/
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
