@@ -15,6 +15,7 @@ builder.Services.AddCors(options =>
 /*teste*/
 var app = builder.Build();
 
+//teste http
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
